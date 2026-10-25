@@ -12,7 +12,7 @@
 ## Установка (Windows, NVIDIA GPU)
 
 ```
-git clone <этот репозиторий>
+git clone https://github.com/Yer1h/index-translate-overlay
 cd index-translate-overlay
 setup.bat     # venv + llama.cpp + модель (~2.5 ГБ загрузки)
 start.bat     # запуск: трей, без консоли
