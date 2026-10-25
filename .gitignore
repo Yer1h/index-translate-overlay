@@ -1,0 +1,14 @@
+# Тяжёлые бинарники и модели — ставятся setup.bat'ом, в git не входят
+bin/
+models/*.gguf
+downloads/
+
+# Окружение и кэш
+.venv/
+__pycache__/
+*.pyc
+
+# Локальные данные пользователя
+logs/
+history.jsonl
+config.json
